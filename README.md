@@ -59,4 +59,4 @@ To run tests, install the Apache JMeter from [here](https://jmeter.apache.org/do
 - Het Pandya - 202151065
 - Kashyap Bhadja - 202151074
 - Atharv Telkar - 202151034
-- Dipak Tigga - 2021511051
+- Dipak Tigga - 202151051
